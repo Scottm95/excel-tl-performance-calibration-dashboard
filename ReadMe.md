@@ -91,7 +91,7 @@ All visuals respond dynamically to slicer selections.
 ## Files Included
 'CTC_Full_Dashboard.png' - Screenshot of CTC dashboard
 'ReadMe.md' - Project overview and documentation
-
+'ctc_tl_performance_data.csv' - Fully anonymised dataset used for building the dashboard.
 
 
 
@@ -111,4 +111,5 @@ All visuals respond dynamically to slicer selections.
 - Power Query greatly simplifies data cleaning and anonymisation  
 - Excel can deliver BI-quality dashboards with a clear layout and strong UX  
 - Separating pivot logic (backend) and visuals (frontend) improves clarity and maintainability  
+
 - KPI cards provide an immediate high-level summary for operational stakeholders  
